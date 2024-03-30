@@ -196,7 +196,7 @@
     margin-left: 5%;
     padding-left: 3%;
     font-size: 2em;
-    backdrop-filter: hue-rotateY(49deg);
+    backdrop-filter: hue-rotate(49deg);
     border-radius: 10px;
 }
 .form{
